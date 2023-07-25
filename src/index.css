@@ -1,0 +1,20 @@
+.square{
+  font-family: 'Square Peg', cursive;
+}
+
+.roboto{
+  font-family: 'Roboto', sans-serif;
+}
+
+.rubik{
+  font-family: 'Rubik 80s Fade', cursive;
+}
+  
+  .glass{
+    backdrop-filter: blur(6.8px);
+    -webkit-backdrop-filter: blur(6.8px);
+    }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
